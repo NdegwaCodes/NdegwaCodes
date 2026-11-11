@@ -37,9 +37,11 @@ The website for a Nairobi print and branding studio, built to rank locally and t
 **Data:** PostgreSQL, MongoDB, Redis<br>
 **Tooling:** Git, GitHub Actions, Docker, Vercel, cPanel
 
-## Earlier projects
+## More projects
 
-- [Real-Estate-Project](https://github.com/NdegwaCodes/Real-Estate-Project): real estate web app in TypeScript
-- [Influencer-View](https://github.com/NdegwaCodes/Influencer-View): campaign tracking app for influencers, with submissions and performance metrics
-- [Basic-Security](https://github.com/NdegwaCodes/Basic-Security): OTP verification, JWT authentication and password reset
-- [Finance-Analysis-App](https://github.com/NdegwaCodes/Finance-Analysis-App): sales forecasting on sample data with machine learning
+- [Mwangaza Solar](https://github.com/NdegwaCodes/Ecommerce-Assessment): a solar products store with M-Pesa (Daraja STK push) and Stripe checkout. Spring Boot (hexagonal, DDD) and Angular in an Nx monorepo
+- [Real Estate Rental Platform](https://github.com/NdegwaCodes/Real-Estate-Project): Nairobi rentals with map search, applications, leases and M-Pesa rent payments. Next.js, Express, Prisma, PostGIS, AWS Cognito
+- [Mlo](https://github.com/NdegwaCodes/Meals-Delivery-Application): a Nairobi food delivery app with search, a basket and live order tracking. Expo SDK 58, React Native, TypeScript
+- [Influencer View](https://github.com/NdegwaCodes/Influencer-View): campaign briefs, platform-checked submissions and brand reviews with KES earnings. Next.js 16, Prisma, NextAuth
+
+Each of these has tests and a GitHub Actions pipeline.
